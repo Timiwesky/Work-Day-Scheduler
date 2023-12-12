@@ -18,3 +18,11 @@ The app should:
 * Save the event in local storage when the save button is clicked in that timeblock.
 
 * Persist events between refreshes of a page
+
+## Credits
+    Dayjs
+    JQuery
+
+## Usage
+Link to <a href="https://timiwesky.github.io/Work-Day-Scheduler">GitHub Page</a>
+Link to <a href="https://github.com/Timiwesky/Work-Day-Scheduler">Repository</a>
