@@ -27,3 +27,5 @@ The app should:
 Link to <a href="https://timiwesky.github.io/Work-Day-Scheduler">GitHub Page</a> 
 <br>
 Link to <a href="https://github.com/Timiwesky/Work-Day-Scheduler">Repository</a>
+
+<img width="1433" alt="Screenshot 2023-12-12 at 5 56 22 PM" src="https://github.com/Timiwesky/Work-Day-Scheduler/assets/115565053/7bdea475-b7fe-473a-a33d-6b72e8312bbf">
