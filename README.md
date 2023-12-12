@@ -24,5 +24,6 @@ The app should:
     JQuery
 
 ## Usage
-Link to <a href="https://timiwesky.github.io/Work-Day-Scheduler">GitHub Page</a>
+Link to <a href="https://timiwesky.github.io/Work-Day-Scheduler">GitHub Page</a> 
+<br>
 Link to <a href="https://github.com/Timiwesky/Work-Day-Scheduler">Repository</a>
